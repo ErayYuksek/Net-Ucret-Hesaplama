@@ -1,0 +1,11 @@
+C:\Users\erayy\source\repos\Maaş bordro Hesapllama\bin\Debug\Maaş bordro Hesapllama.exe.config
+C:\Users\erayy\source\repos\Maaş bordro Hesapllama\bin\Debug\Maaş bordro Hesapllama.exe
+C:\Users\erayy\source\repos\Maaş bordro Hesapllama\bin\Debug\Maaş bordro Hesapllama.pdb
+C:\Users\erayy\source\repos\Maaş bordro Hesapllama\obj\Debug\Maaş bordro Hesapllama.csproj.AssemblyReference.cache
+C:\Users\erayy\source\repos\Maaş bordro Hesapllama\obj\Debug\Maaş bordro Hesapllama.csproj.SuggestedBindingRedirects.cache
+C:\Users\erayy\source\repos\Maaş bordro Hesapllama\obj\Debug\Maaş_bordro_Hesapllama.Form1.resources
+C:\Users\erayy\source\repos\Maaş bordro Hesapllama\obj\Debug\Maaş_bordro_Hesapllama.Properties.Resources.resources
+C:\Users\erayy\source\repos\Maaş bordro Hesapllama\obj\Debug\Maaş bordro Hesapllama.csproj.GenerateResource.cache
+C:\Users\erayy\source\repos\Maaş bordro Hesapllama\obj\Debug\Maaş bordro Hesapllama.csproj.CoreCompileInputs.cache
+C:\Users\erayy\source\repos\Maaş bordro Hesapllama\obj\Debug\Maaş bordro Hesapllama.exe
+C:\Users\erayy\source\repos\Maaş bordro Hesapllama\obj\Debug\Maaş bordro Hesapllama.pdb
